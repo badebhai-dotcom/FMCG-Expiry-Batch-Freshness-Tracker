@@ -1,0 +1,6 @@
+customer_name,channel_type,min_shelf_life_pct_required,penalty_per_rejected_case_inr
+DMart,Modern Trade,0.75,180.0
+Reliance Retail,Modern Trade,0.7,150.0
+Blinkit DarkStore,Quick Commerce,0.6,120.0
+Zepto DarkStore,Quick Commerce,0.6,120.0
+General Trade / Local Distributor,General Trade,0.4,50.0
